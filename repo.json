@@ -1,0 +1,9 @@
+{
+    "iconUrl": "https://ibb.co/DDYbGvQC",
+    "name": "RBK Providers NSFW",
+    "description": "Providers NSFW for RUBIKOF",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/RUBIKOF/CS-XXX-RUBIKOF/refs/heads/main/plugins.json"
+    ]
+}
