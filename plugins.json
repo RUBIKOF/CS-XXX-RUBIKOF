@@ -136,10 +136,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=javhd.today&sz=%size%",
-    "fileHash": "sha256-0828889ef1992ae5aebf7149cd3c27e8b7f6bd0b244682e917ae38499fa39360",
+    "fileHash": "sha256-e63d8fbc7ca13ca0b67e1b4df41b63ce7c6c562697a849874e2468f0cbd381c0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-XXX-RUBIKOF",
-    "fileSize": 26018,
+    "fileSize": 26012,
     "status": 1,
     "language": "es",
     "authors": [
@@ -247,6 +247,25 @@
     "internalName": "MissAvProvider",
     "url": "https://raw.githubusercontent.com/RUBIKOF/CS-XXX-RUBIKOF/main/MissAvProvider.cs3",
     "name": "MissAvProvider"
+  },
+  {
+    "iconUrl": "https://ei.phncdn.com/www-static/favicon.ico",
+    "fileHash": "sha256-8315460eb6ff68a4b3a03f56411608141de25d10ff79282ccc38928d7be8da15",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-XXX-RUBIKOF",
+    "fileSize": 14703,
+    "status": 1,
+    "language": "es",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "version": 1,
+    "internalName": "PornHubProvider",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-XXX-RUBIKOF/main/PornHubProvider.cs3",
+    "name": "PornHubProvider"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=watchjavonline.com&sz=%size%",
