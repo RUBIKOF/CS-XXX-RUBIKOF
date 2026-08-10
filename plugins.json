@@ -250,10 +250,10 @@
   },
   {
     "iconUrl": "https://ei.phncdn.com/www-static/favicon.ico",
-    "fileHash": "sha256-3cfe28448de7e8b25a53e2a44912a4841006d954297e630c702cd2bd734eefab",
+    "fileHash": "sha256-f1d99a52442f74e02d29332cf0f745e9c3de86994261550146cd12a6a80838b7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-XXX-RUBIKOF",
-    "fileSize": 19267,
+    "fileSize": 19351,
     "status": 1,
     "language": "es",
     "authors": [
