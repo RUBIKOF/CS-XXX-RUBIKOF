@@ -231,10 +231,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=missav.com&sz=%size%",
-    "fileHash": "sha256-782949d8fbeecfb00b7418b86acb0ed2f7c4c4739cbf8e6fdcfbbee997d1672b",
+    "fileHash": "sha256-d6f5340d08e6cf11b7ba2dac5de1770444955f74654c35c0b1962fbdb908a5be",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-XXX-RUBIKOF",
-    "fileSize": 26736,
+    "fileSize": 26977,
     "status": 1,
     "language": "es",
     "authors": [
