@@ -250,10 +250,10 @@
   },
   {
     "iconUrl": "https://manko.fun/images/favicon.ico",
-    "fileHash": "sha256-b18ddfcf5ee4ce1593b17002a804150ff4751c28fdcddcd670550e7546f9084b",
+    "fileHash": "sha256-e000546126264aebfd8f429c89aeccd36fa088b2ea63a0fc18ac263b5238ea8b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-XXX-RUBIKOF",
-    "fileSize": 49388,
+    "fileSize": 50025,
     "status": 1,
     "language": "es",
     "authors": [
