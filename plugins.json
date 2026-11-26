@@ -38,6 +38,25 @@
     "name": "BestJavPornProvider"
   },
   {
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://chaturbate.com&size=32",
+    "fileHash": "sha256-994841fc9ce6983b787007e6313ecf43b1db87ff90610ff7cf8e264c391a046d",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-XXX-RUBIKOF",
+    "fileSize": 16934,
+    "status": 1,
+    "language": "es",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "version": 1,
+    "internalName": "ChaturbateProvider",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-XXX-RUBIKOF/main/ChaturbateProvider.cs3",
+    "name": "ChaturbateProvider"
+  },
+  {
     "iconUrl": "https://static-ca-cdn.eporner.com/favicon.png",
     "fileHash": "sha256-41691ddc523c656216f601db07dddfa8fa5b0fa7e7bb23ec0c5d6e04d480b2ee",
     "apiVersion": 1,
@@ -306,6 +325,25 @@
     "name": "PornHubProvider"
   },
   {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sextb.net/&size=32",
+    "fileHash": "sha256-14a664bbb9c87d28630bbd847cb8705d022789ca1911f5911847dfbe6e7e362f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-XXX-RUBIKOF",
+    "fileSize": 294386,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "version": 1,
+    "internalName": "SexTBProvider",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-XXX-RUBIKOF/main/SexTBProvider.cs3",
+    "name": "SexTBProvider"
+  },
+  {
     "iconUrl": "https://spankbang.com/static/desktop/Images/icons/v3/favicon.ico",
     "fileHash": "sha256-8acda353e7eff8e5657ce97911269b39c0305f455f5a8ed848b6e610eebd9632",
     "apiVersion": 1,
@@ -345,10 +383,10 @@
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://es.xhamsterlive.com&size=32",
-    "fileHash": "sha256-6f0d721503cde1b6cba9d8632337dd9b57e298fcd172c2218b09af69fd9b28bc",
+    "fileHash": "sha256-9a506d257e76365d4fc06c1a748522ca64e747c176e53868aee35627f8778ff6",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-XXX-RUBIKOF",
-    "fileSize": 67155,
+    "fileSize": 24980,
     "status": 1,
     "language": "es",
     "authors": [
@@ -361,43 +399,5 @@
     "internalName": "XhamsterLiveProvider",
     "url": "https://raw.githubusercontent.com/RUBIKOF/CS-XXX-RUBIKOF/main/XhamsterLiveProvider.cs3",
     "name": "XhamsterLiveProvider"
-  },
-  {
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://chaturbate.com&size=32",
-    "fileHash": "sha256-994841fc9ce6983b787007e6313ecf43b1db87ff90610ff7cf8e264c391a046d",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-XXX-RUBIKOF",
-    "fileSize": 16934,
-    "status": 1,
-    "language": "es",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "version": 1,
-    "internalName": "ChaturbateProvider",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-XXX-RUBIKOF/main/ChaturbateProvider.cs3",
-    "name": "ChaturbateProvider"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sextb.net/&size=32",
-    "fileHash": "sha256-c23428c2aff319418fe24c15af5403475c03ef77d34da4f0fb36c329db5ae78b",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-XXX-RUBIKOF",
-    "fileSize": 67879,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "version": 1,
-    "internalName": "SexTBProvider",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-XXX-RUBIKOF/main/SexTBProvider.cs3",
-    "name": "SexTBProvider"
   }
 ]
